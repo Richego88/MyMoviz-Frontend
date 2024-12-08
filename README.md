@@ -11,6 +11,10 @@ This is my first React project that showcases my learning with front-end and bac
 - **Liked Movies Popover:** The popover displays all liked movies, with the ability to remove movies by clicking a delete button (X).
 - **Deployment:** Deployed on Vercel with back-end API integration.
 
+## Live Demo
+
+Check out the live demo of the app at [https://my-moviz-frontend-tan.vercel.app/](https://my-moviz-frontend-tan.vercel.app/).
+
 ## Technologies Used
 
 - **Frontend:**
@@ -32,3 +36,4 @@ This app is just the beginning! In the future, I plan to:
 - Implement movie reviews and comments.
 - Enhance movie details (e.g., trailers, cast information).
 - Explore more advanced features in React and Node.js.
+
