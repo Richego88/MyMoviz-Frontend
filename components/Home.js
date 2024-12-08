@@ -12,7 +12,7 @@ function Home() {
   const [isSelected, setIsSelected] = useState(false);
 
   useEffect(() => {
-    fetch("http://localhost:3000/movies")
+    fetch("https://my-moviz-backend-livid.vercel.app/movies")
       .then((response) => {
         if (!response.ok) {
           throw new Error(`HTTP error! Status: ${response.status}`);
